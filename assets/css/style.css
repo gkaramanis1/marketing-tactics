@@ -29,7 +29,7 @@ body {
 }
 
 /* This adjusts the structure and look of the navigation bar*/
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,12 +38,12 @@ body {
 }
 
 /*This specifies if there are any listing items for the links, such as bullet points*/
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
 /*This edits the spacing of the links on the top right of the webpage*/
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
