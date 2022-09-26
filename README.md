@@ -12,9 +12,7 @@ N/A
 
 There are three links on the navigation tab named "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing." Each of these links will take the user to the designated section.
 
-```md
-![screenshot of marketing tactics webpage](assets/images/screenshot.png)
-```
+![screenshot of marketing tactics webpage](/assets/images/screenshot.png)
 
 ## Credits
 
