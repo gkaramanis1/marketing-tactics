@@ -14,12 +14,5 @@ There are three links on the navigation tab named "Search Engine Optimization", 
 
 ![screenshot of marketing tactics webpage](/assets/images/screenshot.png)
 
-## Credits
-
-N/A
-
-## License
-
-N/A
-
+[website link](https://gkaramanis1.github.io/marketing-tactics/)
 
